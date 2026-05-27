@@ -1,5 +1,6 @@
 # ENG_LEARN — Освітня вебплатформа для вивчення англійської мови
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/2c3b774b-f325-4480-9f75-bdecc05cac25" />
+<img width="1200" height="675" alt="image" src="https://github.com/user-attachments/assets/2d6dd1d2-6939-460e-a93c-cb8b1ec9d71d" />
+
 
 **ENG_LEARN** — це сучасна інтерактивна вебплатформа, створена для гнучкого онлайн-навчання та автоматизованого контролю знань з англійської мови. Проєкт реалізовано на базі фреймворку **Laravel 12.x** із дотриманням архітектурного шаблону MVC.
 

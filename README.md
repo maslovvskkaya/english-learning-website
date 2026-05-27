@@ -20,11 +20,11 @@
 
 ##Інструкція з локального розгортання
 
-Для запуску проєкту у локальному середовищі розробки (наприклад, XAMPP/Laragon) виконайте такі кроки:
+Для запуску проєкту у локальному середовищі розробки (наприклад, XAMPP) виконайте такі кроки:
 
 ### 1. Клонування репозиторію та перехід у директорію
 ```bash
-git clone [https://github.com/your-username/english-learning.git](https://github.com/your-username/english-learning.git)
+git clone [https://github.com/maslovvskkaya/english-learning.git](https://github.com/your-username/english-learning.git)
 cd english-learning
 
 ```
@@ -90,10 +90,7 @@ php artisan serve
 
 Після цього вебплатформа буде доступна за адресою: `http://127.0.0.1:8000`.
 
-## 🔒 Безпека та ліцензія
+## Безпека та ліцензія
 
 Проєкт розроблено в навчальних цілях як курсовий проєкт. Захищено механізмами валідації запитів та фільтрації трафіку фреймворку Laravel.
 
-```
-
-```
